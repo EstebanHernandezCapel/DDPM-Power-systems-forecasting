@@ -23,4 +23,6 @@ This repo contains jupyter notbooks relative to the training, some of the experi
 ![NF](imgs/NF_scheme_page-0001.jpg)
 
 
+## Comparison of the 4 models with load scenarios generation
+![Comp](imgs/load_comp.png)
 
