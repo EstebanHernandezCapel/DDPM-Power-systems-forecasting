@@ -6,4 +6,4 @@ DDPMs are a class of deep generative models. In this work they are applied to th
 
 ## High level overview of the frawework
 
-![graphical_abstract.pdf](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting/files/9437421/graphical_abstract.pdf)
+![graphical_abstract.pdf](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting/imgs/graphical_abstract.pdf)
