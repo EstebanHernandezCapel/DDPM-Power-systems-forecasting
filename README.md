@@ -24,5 +24,5 @@ This repo contains jupyter notbooks relative to the training, some of the experi
 
 
 ## Comparison of the 4 models with load scenarios generation
-![Comp](imgs/load_comp.png)
+![Comp](imgs/load_comparison.png)
 
