@@ -6,6 +6,6 @@ DDPMs are a class of deep generative models. In this work they are applied to th
 
 ## High level overview of the frawework
 
-![graphical_abstract.pdf](imgs/graphical_abstract.pdf)
+![graphical_abstract](imgs/graphical_abstract_page-0001.jpg)
 
 
